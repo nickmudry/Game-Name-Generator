@@ -1,7 +1,8 @@
 Game-Name-Generator
 ===================
 
-PHP web name generator for video game names. 
+This is a "funny name generator" for video games. This is entirely written in PHP. Simply upload it to any web server and it should work! 
 
+Currently live at http://mudry.me/gameideas
 
-To be updated. :) 
+Created by Nick Mudry - @Nick_Mudry on Twitter
